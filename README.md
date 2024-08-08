@@ -12,7 +12,7 @@ This project aims to enhance airline operations by analyzing air traffic data. T
 
 ## Methodology
 
-1. **Data Collection**: Collected and prepared air traffic data for analysis.
+1. **Data Collection**: Air traffic data for the analysis was obtained from Kaggle.
 2. **Time Series Analysis**: Conducted time series analyses on the data.
 3. **Modeling**: Applied the SARIMAX model to forecast future air traffic.
 4. **Recommendations**: Generated strategic recommendations based on seasonal trends.
